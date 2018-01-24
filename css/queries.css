@@ -1,0 +1,567 @@
+@media only screen and (min-width: 993px){
+
+.container {
+    width: 85% !important;
+}
+
+
+}
+@media only screen and (max-width: 993px){
+	.faqs-embajadores ul {
+    width: 100%;}
+}
+
+
+
+/*@media screen and (max-width: 1345px){}*/
+@media screen and (max-width: 1256px){
+	    #embajadores{padding: 3% 0 5%;}
+	    .icon_beneficios img.icon_landing{opacity: .9;width: 100%;padding: 0;}
+        .beneficios-embajadores h3{font-size: 15px;}
+	   	.faqs-embajadores{padding: 3.5% 0 4.5%;}
+		.faqs-embajadores h2{font-size: 20px;  margin-bottom: 5%;margin-top: 1.78rem;}
+		.social-icons img{width: 14%;padding:3%;margin: 0 4%;}
+		.formulario_embajadores{margin: 12% 0 0;}
+		/*.faqs-embajadores ul{width: 70%;}*/
+		.faqs-embajadores{padding: 3% 0 7%;}
+		.faqs-embajadores ul{width: 80%;}
+		.bg_footer_landing{padding-top: 3%;}
+}
+
+@media screen and (max-width: 1230px){
+	    /*#embajadores{padding: 3% 0 5%;}*/
+	    /*.icon_beneficios img.icon_landing{opacity: .9;width: 100%;padding: 0;}*/
+        /*.beneficios-embajadores h3{font-size: 15px;}*/
+	   	/*.faqs-embajadores{padding: 3.5% 0 4.5%;}*/
+		/*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 5%;}*/
+		/*.social-icons img{width: 14%;padding:3%;margin: 0 4%;}*/
+		.formulario_embajadores{margin: 15% 0 0;}
+		/*.faqs-embajadores ul{width: 70%;}*/
+		/*.faqs-embajadores{padding: 3% 0 7%;}*/
+		/*.faqs-embajadores ul{width: 80%;}*/
+		/*.bg_footer_landing{padding-top: 3%;}*/
+
+		/*header*/
+		.buttons-hero{width:30%;}
+		.hero-cta{float: left;}
+		.link-pink{float: right;}
+
+		#bg-embajadores h1{font-size:4.5em;}
+		.arrow-d{bottom: 10%;}
+		#bg-embajadores p{margin-bottom: 2%;font-size: 1.1em;padding: 0 0%;}
+}
+
+@media screen and (max-width: 1200px){
+	    /*#embajadores{padding: 3% 0 5%;}*/
+	    /*.icon_beneficios img.icon_landing{opacity: .9;width: 100%;padding: 0;}*/
+        /*.beneficios-embajadores h3{font-size: 15px;}*/
+	   	/*.faqs-embajadores{padding: 3.5% 0 4.5%;}*/
+		/*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 5%;}*/
+		/*.social-icons img{width: 14%;padding:3%;margin: 0 4%;}*/
+		.formulario_embajadores{margin: 15% 0 0;}
+		/*.faqs-embajadores ul{width: 70%;}*/
+		/*.faqs-embajadores{padding: 3% 0 7%;}*/
+		/*.faqs-embajadores ul{width: 80%;}*/
+		/*.bg_footer_landing{padding-top: 3%;}*/
+
+
+		/*header*/
+		.buttons-hero{width:40%;}
+		/*.hero-cta{float: left;}
+		.link-pink{float: right;}*/
+
+		#bg-embajadores h1{font-size:4em;}
+		.arrow-d{bottom: 17%;}
+		/*#bg-embajadores p{margin-bottom: 2%;font-size: 1.1em;padding: 0 0%;}*/
+}
+
+@media screen and (max-width: 1156px){
+        #embajadores{padding: 3% 0 4%;}
+	    /*.icon_beneficios img.icon_landing{opacity: .9;width: 100%;padding: 0;}*/
+        /*.beneficios-embajadores h3{font-size: 15px;}*/
+	   	/*.faqs-embajadores{padding: 3.5% 0 4.5%;}*/
+		/*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 5%;}*/
+		/*.social-icons img{width: 14%;padding:3%;margin: 0 4%;}*/
+		.formulario_embajadores{margin: 18% 0 0;}
+		/*.faqs-embajadores ul{width: 70%;}*/
+		/*.faqs-embajadores{padding: 3% 0 7%;}*/
+		/*.faqs-embajadores ul{width: 80%;}*/
+		/*.bg_footer_landing{padding-top: 3%;}*/
+
+
+		/*header*/
+		/*.buttons-hero{width:40%;}*/
+		/*.hero-cta{float: left;}
+		.link-pink{float: right;}*/
+
+		/*#bg-embajadores h1{font-size:4em;}*/
+		/*.arrow-d{bottom: 17%;}
+		#bg-embajadores p{margin-bottom: 2%;font-size: 1.1em;padding: 0 0%;}*/
+}
+
+@media screen and (max-width: 1120px){
+        /* #embajadores{padding: 3% 0 4%;}*/
+	    /*.icon_beneficios img.icon_landing{opacity: .9;width: 100%;padding: 0;}*/
+        /*.beneficios-embajadores h3{font-size: 15px;}*/
+	   	/*.faqs-embajadores{padding: 3.5% 0 4.5%;}*/
+		/*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 5%;}*/
+		/*.social-icons img{width: 14%;padding:3%;margin: 0 4%;}*/
+		.formulario_embajadores{margin: 20% 0 0;}
+		/*.faqs-embajadores ul{width: 70%;}*/
+		/*.faqs-embajadores{padding: 3% 0 7%;}*/
+		/*.faqs-embajadores ul{width: 80%;}*/
+		/*.bg_footer_landing{padding-top: 3%;}*/
+
+		 /*header*/
+		/*.buttons-hero{width:40%;}
+		.hero-cta{float: left;}
+		.link-pink{float: right;}
+
+		#bg-embajadores h1{font-size:4em;}
+		.arrow-d{bottom: 17%;}
+		#bg-embajadores p{margin-bottom: 2%;font-size: 1.1em;padding: 0 0%;}*/
+}
+
+@media screen and (max-width: 1056px){
+       #embajadores{padding: 3% 0 2%;}
+	    /*.icon_beneficios img.icon_landing{opacity: .9;width: 100%;padding: 0;}*/
+        /*.beneficios-embajadores h3{font-size: 15px;}*/
+	   	/*.faqs-embajadores{padding: 3.5% 0 4.5%;}*/
+		/*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 5%;}*/
+		/*.social-icons img{width: 14%;padding:3%;margin: 0 4%;}*/
+		/*.formulario_embajadores{margin: 20% 0 0;}*/
+		/*.faqs-embajadores ul{width: 70%;}*/
+		/*.faqs-embajadores{padding: 3% 0 7%;}*/
+		/*.faqs-embajadores ul{width: 80%;}*/
+		/*.bg_footer_landing{padding-top: 3%;}*/
+
+		 /*header*/
+		/*.buttons-hero{width:40%;}
+		.hero-cta{float: left;}
+		.link-pink{float: right;}
+
+		#bg-embajadores h1{font-size:4em;}
+		.arrow-d{bottom: 17%;}
+		#bg-embajadores p{margin-bottom: 2%;font-size: 1.1em;padding: 0 0%;}*/
+}
+@media screen and (max-width: 1036px){}
+
+@media screen and (max-width: 1020px){
+	    #embajadores{padding: 3% 0 1%;}
+	    /*.icon_beneficios img.icon_landing{opacity: .9;width: 100%;padding: 0;}*/
+        /*.beneficios-embajadores h3{font-size: 15px;}*/
+	   	/*.faqs-embajadores{padding: 3.5% 0 4.5%;}*/
+		/*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 5%;}*/
+		/*.social-icons img{width: 14%;padding:3%;margin: 0 4%;}*/
+		/*.formulario_embajadores{margin: 20% 0 0;}*/
+		/*.faqs-embajadores ul{width: 70%;}*/
+		/*.faqs-embajadores{padding: 3% 0 7%;}*/
+		/*.faqs-embajadores ul{width: 80%;}*/
+		/*.bg_footer_landing{padding-top: 3%;}*/
+
+
+		 /*header*/
+		/*.buttons-hero{width:40%;}
+		.hero-cta{float: left;}
+		.link-pink{float: right;}*/
+
+		#bg-embajadores h1{font-size:3.7em;}
+		/*.arrow-d{bottom: 17%;}*/
+		#bg-embajadores p{margin-bottom: 4%;font-size: 1.1em;padding: 0 0%;}
+
+        
+
+
+}
+@media screen and (max-width: 1002px){}
+@media screen and (max-width: 992px){
+	    .form-embajadores{margin-bottom: 8%;padding: 2% 15%;}
+	    /*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 5%;}*/
+	    .faqs-embajadores{padding: 3% 0 7%;}
+	    .faqs-embajadores ul{width: 60%;}
+	    .style-footer-line{text-align: center;border-left: none;}
+	    .m-row p{text-align: center;}
+	    .definition{padding: 0 25%;}
+	    footer .img-logo{margin: 0 auto;width: 10%;}
+	    .bg_footer_landing{padding-top: 5%;}
+
+	    .icon_beneficios img.icon_landing{opacity: .9;width: 70%;padding: 2%;}
+	    
+	    #bg-embajadores h1{font-size: 3em;}
+
+	    #embajadores{padding: 3% 5% 1.5%;}
+
+	    .beneficios-embajadores p{font-size: 15px;}
+
+
+	     .beneficios-embajadores h3{margin: 2% 0;font-size: 17px;}
+
+	     .social-icons img{width: 6%;padding: 1.8%;margin: 1.5%;}
+	     #formulario_embajadores{padding: 0 18%;}
+	    .formulario_embajadores{margin: 8% 0 0;}
+	    .faqs-embajadores ul{width: 80%;}
+
+
+	     /*header*/
+		/*.buttons-hero{width:40%;}
+		.hero-cta{float: left;}
+		.link-pink{float: right;}*/
+
+		#bg-embajadores h1{font-size:3.5em;}
+		/*.arrow-d{bottom: 17%;}*/
+		#bg-embajadores p{margin-bottom: 6%;font-size: 1.1em;padding: 0 0%;}
+
+		
+}
+
+@media screen and (max-width: 960px){}
+@media screen and (max-width: 920px){
+        /*.form-embajadores{margin-bottom: 8%;padding: 2% 15%;}*/
+	    .faqs-embajadores h2{font-size: 20px;  margin-bottom: 6%;}
+	    .faqs-embajadores{padding: 3% 0 9%;}
+	    /*.style-footer-line{text-align: center;border-left: none;}*/
+	    /*.m-row p{text-align: center;}*/
+	    /*.definition{padding: 0 25%;}*/
+	    /*footer .img-logo{margin: 0 auto;width: 10%;}*/
+	    /*.bg_footer_landing{padding-top: 5%;}*/
+
+	    .icon_beneficios img.icon_landing{opacity: .9;width: 85%;}
+	    
+	    /*#bg-embajadores h1{font-size: 3em;}*/
+
+	    #embajadores{padding: 5% 5% 2%;}
+
+	    /*.beneficios-embajadores p{font-size: 15px;}*/
+
+
+	     /*.beneficios-embajadores h3{margin: 2% 0;font-size: 17px;}*/
+
+	     .social-icons img{width: 6%;padding: 1.5%;margin: 2%;}
+	     #formulario_embajadores{padding: 0 12%;}
+	     .faqs-embajadores ul{width: 80%;}
+
+
+	     /*header*/
+		.buttons-hero{width: 50%;}
+		/*.hero-cta{float: left;}
+		.link-pink{float: right;}*/
+
+		/*#bg-embajadores h1{font-size:3.5em;}
+		.arrow-d{bottom: 17%;}*/
+		/*#bg-embajadores p{margin-bottom: 6%;font-size: 1.1em;padding: 0 0%;}*/
+
+
+}
+@media screen and (max-width: 890px){}
+@media screen and (max-width: 860px){
+
+	    /*.form-embajadores{margin-bottom: 8%;padding: 2% 15%;}*/
+	    /*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 6%;}*/
+	    /*.faqs-embajadores{padding: 3% 0 9%;}*/
+	    .social-icons img{width: 8%;padding: 2%;margin: 2%;}
+	    /*.style-footer-line{text-align: center;border-left: none;}*/
+	    /*.m-row p{text-align: center;}*/
+	    /*.definition{padding: 0 25%;}*/
+	    footer .img-logo{width: 12%;}
+	    /*.bg_footer_landing{padding-top: 5%;}*/
+
+	    /*.icon_beneficios img.icon_landing{opacity: .9;}*/
+	    
+	    /*#bg-embajadores h1{font-size: 3em;}*/
+
+	    /*#embajadores{padding: 5% 5% 2%;}*/
+	    .social-icons img{width: 7%;padding: 2%;margin: 2%;}
+
+	    /*.beneficios-embajadores p{font-size: 15px;}*/
+
+	    #formulario_embajadores{padding: 0 10%;}
+
+	    /* .beneficios-embajadores h3{margin: 2% 0;font-size: 17px;}*/
+
+
+
+	     /*header*/
+		.buttons-hero{width: 60%;}
+		/*.hero-cta{float: left;}
+		.link-pink{float: right;}*/
+
+		#bg-embajadores h1{font-size:3.1em;}
+		/*.arrow-d{bottom: 17%;}*/
+		#bg-embajadores p{margin-bottom: 6%;font-size: 1.1em;padding: 0 10%;}
+}
+
+
+@media screen and (max-width: 820px){}
+@media screen and (max-width: 780px){
+
+	    /*.form-embajadores{margin-bottom: 8%;padding: 2% 15%;}*/
+	    /*.faqs-embajadores h2{font-size: 20px;  margin-bottom: 6%;}*/
+	    /*.faqs-embajadores{padding: 3% 0 9%;}*/
+	    /*.social-icons img{width: 8%;padding: 2%;margin: 2%;}*/
+	    /*.style-footer-line{text-align: center;border-left: none;}*/
+	    /*.m-row p{text-align: center;}*/
+	    .definition{padding: 0 20%;}
+	    footer .img-logo{margin: 0 auto;width: 16%;}
+	    .bg_footer_landing{padding-top: 5%;}
+
+	    .icon_beneficios img.icon_landing{opacity: .9;}
+	    
+	    #bg-embajadores h1{font-size: 3em;}
+
+	    #embajadores{padding: 5% 5% 2%;}
+	    .social-icons img{width: 7%;padding: 2%;margin: 2%;}
+	    .beneficios-embajadores p{font-size: 14px;}
+
+	    #formulario_embajadores{padding: 0 5%;}
+	    .faqs-embajadores ul{width: 90%;}
+
+
+
+	     /*header*/
+		.buttons-hero{width: 70%;}
+		/*.hero-cta{float: left;}
+		.link-pink{float: right;}*/
+
+		/*#bg-embajadores h1{font-size:3.1em;}
+		.arrow-d{bottom: 17%;}*/
+		#bg-embajadores p{margin-bottom: 6%;font-size: 1.1em;padding: 0 7%;}
+
+
+
+}
+@media screen and (max-width: 720px){}
+
+@media screen and (max-width: 700px){
+
+	    .form-embajadores{margin-bottom: 8%;padding: 2% 10%;}
+	    .faqs-embajadores h2{font-size: 20px;  margin-bottom: 6%;}
+	    .faqs-embajadores{padding: 3% 0 9%;}
+	    .social-icons img{width: 8%;padding: 2%;margin: 2%;}
+	    .style-footer-line{text-align: center;border-left: none;}
+	    .m-row p{text-align: center;}
+	    .definition{padding: 0 15%;}
+	    footer .img-logo{margin: 0 auto;width: 16%;}
+	    .bg_footer_landing{padding-top: 5%;}
+	    #bg-embajadores .logo_w{left: 0;right: 0;text-align: center;}
+
+
+	    .icon_beneficios img.icon_landing{opacity: .9;}
+
+	    #bg-embajadores h1{font-size: 3em;}
+	    #embajadores{padding: 3%;}
+	    .beneficios-embajadores p{font-size: 13px;}
+
+
+
+
+	    /*header*/
+		/*.buttons-hero{width: 70%;}
+		/*.hero-cta{float: left;}*/
+		/*.link-pink{float: right;}*/
+
+		/*#bg-embajadores h1{font-size:3.1em;}*/
+		/*.arrow-d{bottom: 17%;}*/
+		#bg-embajadores p{margin-bottom: 6%;font-size: 1.1em;padding: 0 8%;}
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width:656px){
+
+
+	#embajadores{padding: 3%;}
+	.style-faqs div{padding: 2px 0px 2px 10px;}
+	.style-faqs h3{font-size: 14.5px;line-height: 20px;}
+    .bg_footer_landing{padding-top: 10%;}
+	#bg-embajadores h1{font-size: 3em;}
+	#bg-embajadores .logo_w{left: 0;right: 0;text-align: center;}
+	#bg-embajadores p{font-size: 1em;}
+
+    #formulario_embajadores{padding: 0;}
+
+
+
+
+    .beneficios-embajadores{text-align: left;}
+    .faqs-embajadores h2{font-size: 18px;  margin-bottom: 6%;}
+    .faqs-embajadores{padding: 3% 0 8%;}
+    .social-icons img{width: 8%;padding: 2%;margin: 2%;}
+    .definition{padding: 0 12%;}
+    .border-top{border-top: 1px solid #dadada;}
+    .form-embajadores{margin-bottom: 1%;}
+
+    .faqs-embajadores ul{width: 100%;}
+
+    /*header*/
+	/*.buttons-hero{width: 70%;}
+	.hero-cta{float: left;}
+	.link-pink{float: right;}*/
+
+	#bg-embajadores h1{font-size:3em;}
+	/*.arrow-d{bottom: 17%;}*/
+	#bg-embajadores p{margin-bottom: 6%;font-size: 1.2em;padding: 0 5%;}
+
+}
+
+@media screen and (max-width:600px){
+
+	.faqs-embajadores h2{/*font-size: 18px; */ margin-bottom: 7%;}
+	.beneficios-embajadores{text-align: center;}
+	.beneficios-embajadores h2:after{margin: 2px auto;}
+	#bg-embajadores h1{font-size: 3em;}
+	#bg-embajadores .logo_w{left: 0;right: 0;text-align: center;}
+	#bg-embajadores p{font-size: 1em;}
+
+
+	.definition{padding: 0 10%;}
+	.form-embajadores input.bot_form{width: 50% !important;}
+
+
+
+	.icon_beneficios img.icon_landing{width: 40%;opacity: .6;}
+    .faqs-embajadores{padding: 3% 0 10%;}
+    .beneficios-embajadores p{padding: 0 12%;font-size: 14px;}
+    .form-embajadores{margin-bottom: 2%;}
+    .beneficios-embajadores h3{margin: 4% 0;font-size: 18px;}
+    /*.social-icons img{width: 8%;padding: 2%;margin: 2%;}*/
+
+    
+
+    /*header*/
+	/*.buttons-hero{width: 70%;}*/
+	.hero-cta{float: none;margin: 2% 15% 5%;}
+	.link-pink{float: none;margin: 4% 15%;}
+
+	#bg-embajadores h1{font-size:2.7em;}
+	/*.arrow-d{bottom: 17%;}*/
+	#bg-embajadores p{margin-bottom: 4%;font-size: 1em;padding: 0 0%;}
+
+
+}
+
+
+
+@media screen and (max-width: 550px) {
+
+    #embajadores{padding: 2%;}
+    .beneficios-embajadores p{padding: 0 10%;font-size: 13px;}
+    .beneficios-embajadores h3{font-size: 16px;}
+    .form-embajadores input.bot_form{width: 60% !important;}
+    .definition{padding: 0 8%;}
+    .social-icons img{width: 10%;padding: 3%;margin: 0px 3%;}
+
+     footer .img-logo{width: 18%;}
+
+    /*.icon_beneficios img.icon_landing{width: 40%;opacity: .6;}
+    .faqs-embajadores{padding: 3% 0 10%;}
+    .beneficios-embajadores p{padding: 0 10%;}
+    .form-embajadores{margin-bottom: 2%;}
+    .beneficios-embajadores h3{margin: 4% 0;}
+    .social-icons img{width: 10%;padding: 3%;margin: 0px 3%;}
+    .border-top{border-top: 1px solid #dadada;}*/
+
+
+
+      /*header*/
+	/*.buttons-hero{width: 70%;}
+	.hero-cta{float: none;margin: 2% 15% 5%;}
+	.link-pink{float: none;margin: 4% 15%;}*/
+
+	#bg-embajadores h1{font-size:2.6em;}
+	/*.arrow-d{bottom: 17%;}*/
+	#bg-embajadores p{margin-bottom: 2%;}
+
+}
+
+
+@media screen and (max-width: 480px) {
+    
+    .form-embajadores input.bot_form{width: 80% !important;}
+	.icon_beneficios img.icon_landing{width: 40%;`/*opacity: .6;*/}
+	.definition{padding: 0 4%;}
+	/*.faqs-embajadores{padding: 3% 0 10%;}*/
+    .beneficios-embajadores h3{margin: 5% 0;}
+    .beneficios-embajadores p{padding: 0 5%;}
+    .social-icons img{width: 12%;padding: 3%;margin: 0px 3%;}
+
+     footer .img-logo{width: 22%;}
+
+
+
+     /*header*/
+	.buttons-hero{width: 90%;}
+	/*.hero-cta{float: none;margin: 2% 15% 5%;}
+	.link-pink{float: none;margin: 4% 15%;}*/
+
+	#bg-embajadores h1{font-size:2.5em;}
+	/*.arrow-d{bottom: 17%;}
+	#bg-embajadores p{margin-bottom: 2%;}*/
+
+
+}
+
+@media screen and (max-width: 380px) {
+
+	.form-embajadores input.bot_form{width: 100% !important;}
+	.faqs-embajadores h2{font-size: 18px;}
+	.icon_beneficios img.icon_landing{width: 50%;/*opacity: .6;*/}
+	.faqs-embajadores{padding: 3% 0 15%;}
+	.social-icons img{width: 12%;padding: 3%;margin: 0px 5%;}
+	.definition{padding: 0 3%;}
+
+	footer .img-logo{width: 25%;}
+
+
+    /*header*/
+	/*.buttons-hero{width: 90%;}
+	.hero-cta{float: none;margin: 2% 15% 5%;}
+	.link-pink{float: none;margin: 4% 15%;}*/
+
+	#bg-embajadores h1{font-size:2.1em;}
+	/*.arrow-d{bottom: 17%;}*/
+	#bg-embajadores p{margin-bottom: 6%;}
+
+}
+@media screen and (max-width: 360px){
+	
+	/*.faqs-embajadores h2{font-size: 18px;}*/
+    .icon_beneficios img.icon_landing{/*width: 50%*/;opacity: .7;}
+    .form-embajadores{padding: 2% 8%;}
+    /*.faqs-embajadores{padding: 3% 0 15%;}*/
+    footer .img-logo{width: 28%;}
+
+    /*header*/
+    /*.buttons-hero{width: 90%;}
+	.hero-cta{float: none;margin: 2% 15% 5%;}
+	.link-pink{float: none;margin: 4% 15%;}*/
+
+	/*#bg-embajadores h1{font-size:2.1em;}
+	.arrow-d{bottom: 17%;}
+	#bg-embajadores p{margin-bottom: 6%;}*/
+
+}
+
+@media screen and (max-width: 320px){
+
+    /*.faqs-embajadores h2{font-size: 18px;}*/
+	.icon_beneficios img.icon_landing{width: 70%;/*opacity: .7;*/}
+	.social-icons img{width: 14%;/*padding: 3%;margin: 0px 5%;*/}
+	#bg-embajadores h1{font-size: 2em;}
+	footer .img-logo{width: 30%;}
+
+    /*header*/
+	.buttons-hero{width: 100%;}
+	.hero-cta{float: none;margin: 4% 4% 6%;}
+	.link-pink{float: none;margin: 4%;}
+
+	#bg-embajadores h1{font-size: 1.8em;}
+	/*.arrow-d{bottom: 17%;}*/
+	#bg-embajadores p{margin-bottom: 4%;}
+
+}
+
